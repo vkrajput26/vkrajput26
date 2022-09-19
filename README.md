@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vivek Rajput</h1>
-<h3 align="center">I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h3>
+<h3 align="left">I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vkrajput26&label=Profile%20views&color=0e75b6&style=flat" alt="vkrajput26" /> </p>
 
