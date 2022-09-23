@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me  <a href="indvivekrajput@gmail.com">Email</a>
+- 📫 How to reach me  **indvivekrajput@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BSw8HeMUp30gNrzQRFbHE1Vz5nF8BLpm/view?usp=sharing](https://drive.google.com/file/d/1BSw8HeMUp30gNrzQRFbHE1Vz5nF8BLpm/view?usp=sharing)
 
