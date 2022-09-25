@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://vkrajput26.github.io/](https://vkrajput26.github.io/)
+- 👨‍💻 All of my projects are available at  <a href="https://vkrajput26.github.io/">Link</a>
 
 - 💬 Ask me about **React**
 
